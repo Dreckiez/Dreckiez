@@ -1,39 +1,63 @@
 <h1 align="center">
   <samp>&gt; Hello, I'm Dreckiez</samp>
   <br/>
-  <samp>「 An IT major student 」</samp>
+  <samp>「 Software Engineering Student @ HCMUS 」</samp>
 </h1>
 
 <p align = "center">
   <a href = "https://dreckiez.github.io/" target = "_blank">
     <img src = "https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC1Dou4uY_GWQETCt0090MEg" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-DC143C?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/xu%C3%A2n-h%C6%B0ng-mai-44960a334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:xmaihung13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/xuan.hung.881003/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
-# About me
+# 👨‍💻 About Me
 
-Currently a fresher studying at HCMUS, I'm trying to survive through all the deadlines :cry:
+Currently a 3rd-year Software Engineering student at HCMUS, trying to survive through all the deadlines while building cool things! :sweat_smile:
 
-**Hobbies:** <br/>
-💻 Definitely not **coding**<br/>
-🔖 Reading books especially detective novels<br/>
-🎮 Gaming and coding games <br/>
+* 🌱 **Currently learning:** Diving deeper into **DevOps** and **Cloud Computing** (AWS).
+* 💬 **Wishlist:** Money 💸.
+* 📫 **How to reach me:** Feel free to connect via my LinkedIn, Email or Facebook!
+* ⚡ **Fun fact:** When I'm not coding, I'm usually watching films or gaming.
 
-# Languages and Tools
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Geeks4Geeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![PremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
-![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
+# 🛠️ Languages and Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</div>
 
 <hr/>
 <p align = "center">
